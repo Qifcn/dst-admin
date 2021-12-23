@@ -24,6 +24,7 @@ RUN set -x \
         git \
         vim \
         openjdk-8-jdk \
+        sudo \
         screen
 
 EXPOSE 8080/tcp
